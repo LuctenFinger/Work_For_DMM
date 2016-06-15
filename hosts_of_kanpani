@@ -1,0 +1,25 @@
+//ranking server
+	info.kanpani.jp (153.120.19.181) 
+	
+//the universal Cache resource server	
+// it provide img when read we ranking
+	img.kanpani.jp (153.120.104.84)
+
+
+
+
+// the game api data server(zone 4)
+	www4.kanpani.jp (202.144.237.133)
+	
+login.kanpani.jp (202.144.237.156)
+
+
+// the Cache resource server(zone 4)
+// it provide part of /js/,/img/, and /swf/
+	img4.kanpani.jp (153.120.104.84)
+	
+//the universal Cache resource server
+	app.kanpani.jp (133.242.78.148)
+	
+
+
