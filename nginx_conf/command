@@ -1,0 +1,6 @@
+#!/bin/bash
+#Change the conf and reload setting
+
+sudo cp default.conf /etc/nginx/conf.d/
+
+sudo nginx -s reload
