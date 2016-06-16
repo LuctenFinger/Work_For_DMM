@@ -5,5 +5,5 @@
 
 
 git add .
-git commit -m "change name 1"
+git commit -m "delete the Cache for www4.kanpani.jp"
 git push origin master
