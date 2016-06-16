@@ -5,5 +5,5 @@
 
 
 git add .
-git commit -m "delete the Cache for www4.kanpani.jp"
+git commit -m "add shadowSocks"
 git push origin master
